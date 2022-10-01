@@ -2411,6 +2411,13 @@
   </url>
   
   <url>
+    <loc>https://jarod.vip/tags/AdGuard/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jarod.vip/tags/aliddns/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2425,35 +2432,7 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/AdGuard/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/Archlinux/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/Github/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/Brook/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2488,6 +2467,34 @@
   </url>
   
   <url>
+    <loc>https://jarod.vip/tags/Github/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/Brook/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/Caddy/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jarod.vip/tags/CDN/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2503,13 +2510,6 @@
   
   <url>
     <loc>https://jarod.vip/tags/%E5%8A%A0%E9%80%9F/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/Caddy/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2558,14 +2558,14 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Duplicati/</loc>
+    <loc>https://jarod.vip/tags/DNS/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/DNS/</loc>
+    <loc>https://jarod.vip/tags/Duplicati/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2600,13 +2600,6 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Firewalld/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/ttyd/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2615,6 +2608,13 @@
   
   <url>
     <loc>https://jarod.vip/tags/WebSSH/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/Firewalld/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2670,20 +2670,6 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/OpenVZ/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/OpenVZ-Web-Panel/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/lotServer/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2699,6 +2685,20 @@
   
   <url>
     <loc>https://jarod.vip/tags/%E7%A1%AC%E7%9B%98/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/OpenVZ/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/OpenVZ-Web-Panel/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2761,14 +2761,14 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/crontab/</loc>
+    <loc>https://jarod.vip/tags/Cloudflare/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Cloudflare/</loc>
+    <loc>https://jarod.vip/tags/crontab/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2789,14 +2789,14 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/%E6%94%B9%E8%BF%9B%E7%89%88-%E5%A2%9E%E5%BC%BA%E7%89%88-%E9%AD%94%E6%94%B9%E7%89%88/</loc>
+    <loc>https://jarod.vip/tags/h5ai-dplayer/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/h5ai-dplayer/</loc>
+    <loc>https://jarod.vip/tags/%E6%94%B9%E8%BF%9B%E7%89%88-%E5%A2%9E%E5%BC%BA%E7%89%88-%E9%AD%94%E6%94%B9%E7%89%88/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2880,14 +2880,14 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/FileRun/</loc>
+    <loc>https://jarod.vip/tags/git/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/git/</loc>
+    <loc>https://jarod.vip/tags/FileRun/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3034,7 +3034,21 @@
   </url>
   
   <url>
+    <loc>https://jarod.vip/tags/YAAW/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jarod.vip/tags/%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/%E7%BD%91%E9%80%9F/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3167,20 +3181,6 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/YAAW/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/%E7%BD%91%E9%80%9F/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/BBR2/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3230,13 +3230,6 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/TCP-IP/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/%E6%9D%83%E9%99%90/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3252,6 +3245,13 @@
   
   <url>
     <loc>https://jarod.vip/tags/%E5%B8%B8%E7%94%A8%E8%84%9A%E6%9C%AC/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/TCP-IP/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3321,13 +3321,6 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Magi/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3335,14 +3328,14 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Markdown/</loc>
+    <loc>https://jarod.vip/tags/Magi/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/MEMTEST/</loc>
+    <loc>https://jarod.vip/tags/Markdown/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3357,13 +3350,6 @@
   
   <url>
     <loc>https://jarod.vip/tags/Microsoft-Authenticator/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/Ping/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3405,14 +3391,14 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Node/</loc>
+    <loc>https://jarod.vip/tags/MEMTEST/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Nodejs/</loc>
+    <loc>https://jarod.vip/tags/Ping/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3462,6 +3448,20 @@
   
   <url>
     <loc>https://jarod.vip/tags/Wordpress/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/Node/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/Nodejs/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3524,20 +3524,6 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Overture/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/netspeeder/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/arclinux/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3546,6 +3532,20 @@
   
   <url>
     <loc>https://jarod.vip/tags/pacman/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/Overture/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/netspeeder/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3566,6 +3566,13 @@
   </url>
   
   <url>
+    <loc>https://jarod.vip/tags/Proxmox-VE/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jarod.vip/tags/Docker/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3574,13 +3581,6 @@
   
   <url>
     <loc>https://jarod.vip/tags/Portainer/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/Proxmox-VE/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3622,6 +3622,13 @@
   </url>
   
   <url>
+    <loc>https://jarod.vip/tags/Sublime-Text-3/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jarod.vip/tags/SuperSpeed/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3630,13 +3637,6 @@
   
   <url>
     <loc>https://jarod.vip/tags/Test/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/Sublime-Text-3/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3755,14 +3755,14 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/%E5%86%85%E6%A0%B8/</loc>
+    <loc>https://jarod.vip/tags/WAMP/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/WAMP/</loc>
+    <loc>https://jarod.vip/tags/%E5%86%85%E6%A0%B8/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3888,6 +3888,13 @@
   </url>
   
   <url>
+    <loc>https://jarod.vip/tags/VPS/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jarod.vip/tags/CentOS7-X/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -3916,21 +3923,7 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/VPS/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/%E4%BA%8C%E7%BA%A7proxy/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/acme-sh/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3945,6 +3938,13 @@
   
   <url>
     <loc>https://jarod.vip/tags/archinstall/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/acme-sh/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4007,20 +4007,6 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/IPIP/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jarod.vip/tags/%E9%9A%A7%E9%81%93/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/Mailcow/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -4036,6 +4022,20 @@
   
   <url>
     <loc>https://jarod.vip/tags/%E9%82%AE%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/IPIP/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/%E9%9A%A7%E9%81%93/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4189,13 +4189,6 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Seafile/</loc>
-    <lastmod>2022-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jarod.vip/tags/BT/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -4210,14 +4203,14 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/%E7%BD%91%E7%BB%9C%E5%B8%A6%E5%AE%BD%E6%B5%81%E9%87%8F-%E5%B8%A6%E7%B2%BE%E7%BE%8E%E5%9B%BE%E8%A1%A8/</loc>
+    <loc>https://jarod.vip/tags/Seafile/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/%E5%BC%80%E7%AE%B1%E8%AE%BE%E7%BD%AE/</loc>
+    <loc>https://jarod.vip/tags/%E7%BD%91%E7%BB%9C%E5%B8%A6%E5%AE%BD%E6%B5%81%E9%87%8F-%E5%B8%A6%E7%B2%BE%E7%BE%8E%E5%9B%BE%E8%A1%A8/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4231,7 +4224,7 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/HTTPS/</loc>
+    <loc>https://jarod.vip/tags/%E5%BC%80%E7%AE%B1%E8%AE%BE%E7%BD%AE/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4252,7 +4245,7 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/tags/Clone/</loc>
+    <loc>https://jarod.vip/tags/HTTPS/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4281,6 +4274,13 @@
   
   <url>
     <loc>https://jarod.vip/tags/%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC/</loc>
+    <lastmod>2022-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarod.vip/tags/Clone/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4520,7 +4520,7 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/categories/Win/</loc>
+    <loc>https://jarod.vip/categories/Linux%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4534,7 +4534,7 @@
   </url>
   
   <url>
-    <loc>https://jarod.vip/categories/Linux%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://jarod.vip/categories/Win/</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
